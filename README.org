@@ -1,0 +1,12 @@
+#+title: Readme
+
+* Project Flakes
+
+A series of flakes for various programming languages and use cases.
+
+** Current Templates:
+- Go/templ/datastar/tailwind
+- NextJS
+- Astro
+- Zig
+
